@@ -475,4 +475,3 @@ console.log(hobby);
 
 
 // 10) display person yang mempunya friends gender male atau favorite fruit nya banana dan registered di tahun 2023
-
